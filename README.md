@@ -67,25 +67,4 @@ The backend exposes the following RESTful API endpoints:
 - `PUT /api/movies/{id}`: Update details of a movie.
 - `DELETE /api/movies/{id}`: Delete a movie.
 
-## Contributing
 
-We welcome contributions from the community! To contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature/fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request describing your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- This project was inspired by the love for movies and the desire to showcase the integration of different technologies.
-- Special thanks to the Spring Boot, MongoDB, Java, and React communities for providing powerful tools and resources.
-
-Feel free to reach out to us with any questions or suggestions!
-
-**Happy movie browsing! 🍿🎬**
